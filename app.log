@@ -1,0 +1,54 @@
+16:46:28.728 [main] INFO  src.main.dev.console.App -
+				Bonjour Slf4J !
+16:46:28.728 [main] INFO  src.main.dev.console.App -
+				Implémentation Logback
+16:46:28.728 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+16:47:14.383 [main] INFO  src.main.dev.console.App -
+				Bonjour Slf4J !
+16:47:14.383 [main] INFO  src.main.dev.console.App -
+				Implémentation Logback
+16:47:14.383 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+16:55:13.628 [main] INFO  src.main.dev.console.App -
+				Bonjour Slf4J !
+16:55:13.643 [main] INFO  src.main.dev.console.App -
+				Implémentation Logback
+16:55:13.643 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+17:10:52.068 [main] INFO  src.main.dev.console.App -
+				Bonjour Slf4J !
+17:10:52.068 [main] INFO  src.main.dev.console.App -
+				Implémentation Logback
+17:10:52.068 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+17:11:01.514 [main] INFO  src.main.dev.console.App -
+				Bonjour Slf4J !
+17:11:01.514 [main] INFO  src.main.dev.console.App -
+				Implémentation Logback
+17:11:01.514 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+17:12:05.753 [main] INFO  logger1 -
+				Bonjour Slf4J !
+17:12:05.753 [main] INFO  logger1 -
+				Implémentation Logback
+17:12:05.753 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+17:12:13.705 [main] INFO  logger2 -
+				Bonjour Slf4J !
+17:12:13.705 [main] INFO  logger2 -
+				Implémentation Logback
+17:12:13.705 [main] DEBUG src.main.dev.service.AppService -
+				Traitement 1 : param = valeur 1
+17:15:11.509 [main] INFO  logger2 -
+				Bonjour Slf4J !
+17:15:11.509 [main] INFO  logger2 -
+				Implémentation Logback
+17:15:26.009 [main] INFO  logger2 -
+				Bonjour Slf4J !
+17:15:26.009 [main] INFO  logger2 -
+				Implémentation Logback
+17:25:48.433 [main] INFO  logger2 -
+				Bonjour Slf4J !
+17:25:48.433 [main] INFO  logger2 -
+				Implémentation Logback
